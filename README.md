@@ -1,4 +1,4 @@
-# ATmega-SolderingStation-SMD
+# ATtiny84-TinyHVSP-SMD
 
 ![image](https://user-images.githubusercontent.com/19898602/161411367-82505b68-44f8-4dbc-8081-3d66040bf90b.png)
 
