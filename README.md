@@ -76,6 +76,9 @@ Press OK-button and follow the instructions on the display.
 
 ![image](https://user-images.githubusercontent.com/19898602/161411487-4d689823-aeda-4b6f-bb0f-219ecf9add38.png)
 
+![image](https://user-images.githubusercontent.com/19898602/159014034-3c9a50c3-61c3-40d2-836d-9cadc2317d33.png)
+
+
 SMT Assembly service of [JLCPCB.com](https://jlcpcb.com/IAT) is cherry on top now get your PCB fully assembled and save your time and money
 Select components for your PCB from there Parts Library of 200k+ in-stock components
 they are offering $27 valued New User coupon  & $24 SMT coupons every month
