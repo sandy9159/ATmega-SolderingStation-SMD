@@ -76,6 +76,9 @@ Press OK-button and follow the instructions on the display.
 
 ![image](https://user-images.githubusercontent.com/19898602/161411487-4d689823-aeda-4b6f-bb0f-219ecf9add38.png)
 
+![image](https://user-images.githubusercontent.com/19898602/161411570-543b17e3-c6e9-4a28-a7b8-2a7527b9e4a0.png)
+
+
 ![image](https://user-images.githubusercontent.com/19898602/159014034-3c9a50c3-61c3-40d2-836d-9cadc2317d33.png)
 
 
